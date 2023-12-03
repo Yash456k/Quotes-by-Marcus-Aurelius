@@ -159,6 +159,9 @@ body {
 
 
 }
+.quote-button:hover{
+
+}
 
 .quote-button:active{
 
@@ -222,8 +225,8 @@ footer * {
       font-size: 1.7rem;
     }
 
+    .quote-button:hover,
     .quote-button:active{
-
     margin-top: 30px ;
     margin-bottom: 90px;
     box-shadow: none;
